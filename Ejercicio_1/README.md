@@ -122,3 +122,11 @@ F{H(g=5,h=5,f=10,n=E), J(g=6,h=3,f=9,n=I), L(g=8,h=2,f=10,n=K), e(g=9,h=0,f=9,n=
 F{H(g=5,h=5,f=10,n=E), L(g=8,h=2,f=10,n=K), e(g=9,h=0,f=9,n=K)} test(e) -> es el objetivo
 
 ![Ejercicio 1 - A/A*](img/a_a_estrella_resuelto.jpg)
+
+En la búsqueda en profundidad, el límite de profundidad es 5:
+- Describe qué sucede.
+No logra llegar al destino por una casilla
+- Indica el tipo de fracaso (si lo hay).
+Valor de corte, o sea que no exsite solución dentro del límite de profundidad
+- ¿Qué sucede si aumentamos el límite de profundidad a 6?
+Que logra llegar al destino y por un camino más óptimo que el sin límite
